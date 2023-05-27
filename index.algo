@@ -1,0 +1,7 @@
+Function_palindrome(x :c)
+    if len(word) <= 1:
+        return True
+    elif x[0] != word[-1]:
+        return False
+    else:
+        return is_palindrome(madam)
